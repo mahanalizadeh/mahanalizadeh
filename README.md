@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi 👋, I’m Mahan Alizadeh
 
-<!--
-**mahanalizadeh/mahanalizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I’m passionate about technology, software development, and exploring how Artificial Intelligence can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+👨‍💻 About Me
+
+* 🎓 Computer Engineering student at Islamic Azad University.
+* 🌱 Currently learning Python, Git, and GitHub.
+* 🤖 Exploring Artificial Intelligence and Machine Learning.
+* 📊 Interested in Data Science and Software Engineering.
+* 🚀 Learning by building projects and experimenting with new technologies.
+
+🛠️ Technologies & Tools
+
+* Languages: Python
+* Tools: Git, GitHub, VS Code
+* Currently Exploring: Artificial Intelligence, Data Science, Machine Learning
+
+🎯 Current Goals
+
+* Strengthen my Python programming skills.
+* Master Git and GitHub workflows.
+* Build practical software projects.
+* Explore AI and Data Science.
+* Contribute to open-source projects.
+
+📊 GitHub Stats
+
+⸻
+
+Always learning. Always building. Always improving. 🚀
